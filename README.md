@@ -90,7 +90,3 @@ Best regards,
 - [Chroma](https://www.trychroma.com)
 - [GroqCloud](https://console.groq.com/dashboard/metrics)
 
----
-
-## 📬 License
-MIT License 
