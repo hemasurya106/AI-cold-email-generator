@@ -51,7 +51,7 @@ A Streamlit web application that generates personalized cold emails for job appl
 
 ## 📝 Example
 
-**Input:**
+**Input:**(This Link may not be working during your Usage,so please use a available job postings)
 ```
 https://www.metacareers.com/jobs/1408007706638053/
 ```
