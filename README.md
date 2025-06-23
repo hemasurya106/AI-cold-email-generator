@@ -26,7 +26,7 @@ A Streamlit web application that generates personalized cold emails for job appl
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hemasurya106/AUTONOMOUS_COLD_EMAIL_GENERATOR_USING_LANGCHAIN_AND_GROQ/edit/main/README.md
+   git clone https://github.com/hemasurya106/AI-cold-email-generator
    cd Cold_email_generator
    ```
 2. **Install dependencies:**
