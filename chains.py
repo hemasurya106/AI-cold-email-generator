@@ -47,7 +47,7 @@ class Chain:
             in fulfilling their needs.
             Take the client name as Hiring manager.
             Also add the most relevant ones from the following links to showcase Atliq's portfolio: {link_list}
-            Remember you are Mohan, BDE at AtliQ. 
+            Remember you are Surya, BDE at AtliQ. 
             Do not provide a preamble.
             ### EMAIL (NO PREAMBLE):
 
