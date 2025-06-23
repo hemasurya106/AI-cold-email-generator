@@ -87,6 +87,8 @@ Best regards,
 ## 🤖 Powered by
 - [Streamlit](https://streamlit.io/)
 - [LangChain](https://python.langchain.com/)
+- [Chroma](https://www.trychroma.com)
+- [GroqCloud](https://console.groq.com/dashboard/metrics)
 
 ---
 
